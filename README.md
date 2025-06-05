@@ -17,7 +17,7 @@ Educate users on how to identify, avoid, and respond to phishing attacks using r
 - Conclusion + References
 
  Presentation
-- File: `Phishing Awareness.pptx`
+- File: `Phishing Awareness.pptx``Phishing Awareness.pdf`
 - Downloadable PPT included for quick viewing
 
  References
