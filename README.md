@@ -1,4 +1,4 @@
-# CodeAlpha - Phishing Awareness Training 🎣
+# CodeAlpha - Phishing Awareness Training 
 
 This is a cybersecurity training presentation created as part of the **CodeAlpha Cyber Security Internship** by **Sai Tarun**.
 
